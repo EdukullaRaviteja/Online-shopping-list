@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">e62b2d922f911010e5be55f62799b6be</icon>
+        <item_view display_value="Online Store Detail Screen Item View">322b2d922f911010e5be55f62799b6c5</item_view>
+        <name>Online Store Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-11 18:02:38</sys_created_on>
+        <sys_id>f22b21162f911010e5be55f62799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Online Store Form Screen</sys_name>
+        <sys_package display_value="Online shopping" source="x_497505_online_sh">a2d96d922f911010e5be55f62799b605</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online shopping">a2d96d922f911010e5be55f62799b605</sys_scope>
+        <sys_update_name>sys_sg_form_screen_f22b21162f911010e5be55f62799b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 18:02:38</sys_updated_on>
+        <table>x_497505_online_sh_online_store</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=f22b21162f911010e5be55f62799b61d"/>
+</record_update>
